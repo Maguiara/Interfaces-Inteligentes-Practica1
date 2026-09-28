@@ -15,7 +15,7 @@
 - Parametrización de variables públicas (`framesToWait`) desde el Inspector.
 
 **Gif de demostracion:**
-![Desmostración de cambio de color](gifs1/Ejercicio1.gif)
+![Desmostración de cambio de color](Gifs1/Ejercicio1.gif)
 
 ### Ejercicio 2
 
@@ -38,7 +38,7 @@ Muestra en el inspector cada uno de esos valores.
 - Uso de `Debug.Log()` para mostrar informacion en la consola de Unity
 
 **Gif de demostracion:**
-![Desmostración analizador vectores](gifs1/Ejercicio2.gif)
+![Desmostración analizador vectores](Gifs1/Ejercicio2.gif)
 
 ### Ejercicio 3
 
@@ -53,7 +53,7 @@ Muestra en el inspector cada uno de esos valores.
 - Acceso y manipulación de componentes de interfaz con `GetComponent<TextMeshProUGUI>()`.
 
 **Gif de demostracion:**
-![Desmostración de mostrar vector en pantalla](gifs1/Ejercicio3.gif)
+![Desmostración de mostrar vector en pantalla](Gifs1/Ejercicio3.gif)
 
 ### Ejercicio 4
 
@@ -68,4 +68,4 @@ Muestra en el inspector cada uno de esos valores.
 - Aplicación de fórmulas espaciales usando el método `Vector3.Distance()`.
 
 **Gif de demostracion:**
-![Desmostración de mostrar vector en pantalla](gifs1/Ejercicio4.gif)
+![Desmostración de mostrar vector en pantalla](Gifs1/Ejercicio4.gif)
